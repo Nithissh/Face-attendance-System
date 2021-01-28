@@ -1,0 +1,16 @@
+Install All the modules mentioned below 
+
+pip install tk-tools
+pip install opencv-contrib-python
+pip install opencv-python
+pip install datetime
+pip install pytest-shutil
+pip install python-csv
+pip install numpy
+pip install pillow 
+pip install pandas
+pip install times
+
+
+
+PYTHON 3.7.6 / PYTHON 3.9.1 REQUIRES 
